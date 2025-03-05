@@ -1,6 +1,6 @@
 {
     "id": 1,
-    "image": "https://Gargopel.github.io/key/tokens/token1.webp",
+    "image": "https://raw.githubusercontent.com/Gargopel/key/refs/heads/main/tokens/token1.webp",
     "token_id": "1",
     "background_color": null,
     "animation_url": null,
